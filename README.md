@@ -1,17 +1,8 @@
 # login_flutter_app
 
-Thank you for your support ❤️❤️
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-A few resources to get you started if this is your first Flutter project:
-
-## Tutorials
-- [DESIGN PLAYLIST](https://www.youtube.com/playlist?list=PL5jb9EteFAODpfNJu8U2CMqKFp4NaXlto)
-- [FIREBASE PLAYLIST](https://www.youtube.com/playlist?list=PL5jb9EteFAOC9V6ZHAIg3ycLtjURdVxUH)
-- [Firebase setup](https://www.youtube.com/watch?v=fxDusoMcWj8)
-
 
 
 ## UPDATE
