@@ -5,13 +5,6 @@
 This project is a starting point for a Flutter application.
 
 
-## UPDATE
-  1. Updated Deprecated TextTheme Attributes  [headline1], [headline2], ...[Link](https://codingwitht.com/how-to-use-theme-in-flutter-light-dark-theme)
-  2. Elevated Button Properties updated from [onPrimary] to [foregroundColor] & [primary] to [backgroundColor]
-  3. Style Update from Stadium to Radius[15]
-
-
-
 ## Docs
      1. Show Splash Screen till data loads & when loaded call FlutterNativeSplash.remove(); In this case I'm removing it inside AuthenticationRepository() -> onReady() method.
      2. Before running App - Initialize Firebase and after initialization, Call Authentication Repository so that It can check which screen to show.
